@@ -1,0 +1,56 @@
+[
+  {
+    "titulo": "FIFA 23",
+    "precio": 15000,
+    "categoria": "Deportes",
+    "imagen": "imagenes/fifa.jpg"
+  },
+  {
+    "titulo": "FOOTBALL MANAGER 23",
+    "precio": 8000,
+    "categoria": "Deportes",
+    "imagen": "imagenes/fm.jpg"
+  },
+  {
+    "titulo": "NBA 2K23",
+    "precio": 12000,
+    "categoria": "Deportes",
+    "imagen": "imagenes/nba.jpg"
+  },
+  {
+    "titulo": "RAINBOW SIX",
+    "precio": 7000,
+    "categoria": "Shooter",
+    "imagen": "imagenes/r6.jpg"
+  },
+  {
+    "titulo": "SPIDER-MAN",
+    "precio": 10000,
+    "categoria": "Aventura",
+    "imagen": "imagenes/spider.jpg"
+  },
+  {
+    "titulo": "F1 22",
+    "precio": 12000,
+    "categoria": "Deportes",
+    "imagen": "imagenes/f122.jpg"
+  },
+  {
+    "titulo": "HOGWARTS LEGACY",
+    "precio": 14000,
+    "categoria": "Aventura",
+    "imagen": "imagenes/hl.jpg"
+  },
+  {
+    "titulo": "MODERN WARFARE II",
+    "precio": 8000,
+    "categoria": "Shooter",
+    "imagen": "imagenes/mw.jpg"
+  },
+  {
+    "titulo": "THE LAST OF US II",
+    "precio": 9000,
+    "categoria": "Aventuras",
+    "imagen": "imagenes/last.jpg"
+  }
+]
