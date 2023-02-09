@@ -7,7 +7,7 @@ fondosDiv.innerHTML = `
 let total = 0;
 
 const mostrarProductos = async () => {
-  const respuesta = await fetch('/Entrega final JS/productos.json');
+  const respuesta = await fetch("/productos.json");
   productos = await respuesta.json();
 
   const productosDiv = document.querySelector("#productos");
